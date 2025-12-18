@@ -13,7 +13,7 @@ const projects = [
     title: "Interactive Dashboard",
     desc: "A dashboard application with dynamic charts, filters, and data visualization. Demonstrates front-end state management and responsive UI design.",
     tech: "Vue.js | Vite | Bootstrap",
-    github: "https://github.com/username/dashboard",
+    github: "https://github.com/micahbobis/micah-portfolio",
     live: "",
   },
   {
