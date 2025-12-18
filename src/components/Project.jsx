@@ -1,6 +1,6 @@
 import ProjectCard from "./ProjectCard";
 import AnimatedSection from "./AnimatedSection";
-import portfolioImg from "../assets/IMG_6111.png"; // adjust path depende sa structure mo
+import portfolioImg from "../assets/IMG_6111.png"; // adjust path kung saan nakalagay ang IMG_6111.png
 
 const projects = [
   {
@@ -9,13 +9,13 @@ const projects = [
     tech: "React.js | Tailwind CSS",
     github: "https://github.com/micahbobis/micah-portfolio.git",
     live: "https://micah-portfolio-three.vercel.app/#contact",
-    img: portfolioImg,
+    img: portfolioImg, // <-- actual screenshot
   },
   {
     title: "Interactive Dashboard",
     desc: "A dashboard application with dynamic charts, filters, and data visualization. Demonstrates front-end state management and responsive UI design.",
     tech: "Vue.js | Vite | Bootstrap",
-    github: "https://github.com/micahbobis/micah-portfolio",
+    github: "https://github.com/username/dashboard",
     live: "",
   },
   {
