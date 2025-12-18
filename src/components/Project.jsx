@@ -1,7 +1,7 @@
 import ProjectCard from "./ProjectCard";
 import AnimatedSection from "./AnimatedSection";
 import portfolioImg from "../assets/IMG_6111.png"; // adjust path kung saan nakalagay ang IMG_6111.png
-
+import intdashImg from "../assets/IMG_6113.jpeg";
 const projects = [
   {
     title: "Portfolio Website",
@@ -17,6 +17,7 @@ const projects = [
     tech: "Vue.js | Vite | Bootstrap",
     github: "https://github.com/micahbobis/interactive-dashboard-.git",
     live: "https://interactive-dashboard-v1fx-5fcqq6dh4-micahs-projects-c951dc40.vercel.app/",
+    img: intdashImg,
   },
   {
     title: "Todo / Task Tracker",
