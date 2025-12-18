@@ -1,5 +1,6 @@
 import ProjectCard from "./ProjectCard";
 import AnimatedSection from "./AnimatedSection";
+import portfolioImg from "../assets/IMG_6111.png"; // adjust path depende sa structure mo
 
 const projects = [
   {
@@ -8,6 +9,7 @@ const projects = [
     tech: "React.js | Tailwind CSS",
     github: "https://github.com/micahbobis/micah-portfolio.git",
     live: "https://micah-portfolio-three.vercel.app/#contact",
+    img: portfolioImg,
   },
   {
     title: "Interactive Dashboard",
