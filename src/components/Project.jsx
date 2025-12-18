@@ -15,8 +15,8 @@ const projects = [
     title: "Interactive Dashboard",
     desc: "A dashboard application with dynamic charts, filters, and data visualization. Demonstrates front-end state management and responsive UI design.",
     tech: "Vue.js | Vite | Bootstrap",
-    github: "https://github.com/username/dashboard",
-    live: "",
+    github: "https://github.com/micahbobis/interactive-dashboard-.git",
+    live: "https://interactive-dashboard-v1fx-5fcqq6dh4-micahs-projects-c951dc40.vercel.app/",
   },
   {
     title: "Todo / Task Tracker",
